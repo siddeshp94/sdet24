@@ -2,7 +2,7 @@ package github.practice;
 
 import org.testng.annotations.Test;
 
-public class pull {
+public class pullTest {
 @Test
 	
 	public void github() {
